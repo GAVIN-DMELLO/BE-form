@@ -1,0 +1,23 @@
+{
+  "name": "be-form",
+  "version": "1.0.0",
+  "description": "A Basic backend with  a mongodb and a frontend form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAVIN-DMELLO/BE-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GAVIN-DMELLO/BE-form/issues"
+  },
+  "homepage": "https://github.com/GAVIN-DMELLO/BE-form#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
